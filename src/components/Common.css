@@ -1,0 +1,16 @@
+.objectIntr{
+    max-width: 650px;
+}
+
+.topProjects{
+    flex-wrap: wrap !important;
+    /* flex-direction: column !important; */
+}
+
+#root{
+    overflow: hidden !important;
+}
+
+.imgNav{
+    visibility: hidden;
+}
